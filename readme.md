@@ -2,7 +2,7 @@
 
 ## in short
 
-use these css props together causing low text quality:
+Combining the use of these CSS styles and enable scrollbar leads to low-quality text rendering: `transform`、`border`、`border-radius`、`border`
 
 ```css
 .selector {
