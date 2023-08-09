@@ -1,5 +1,7 @@
 # Low text quality when using specific css props
 
+Chromium Bugs Link: [#1471449](https://bugs.chromium.org/p/chromium/issues/detail?id=1471449)
+
 ## in short
 
 Combining the use of these CSS styles and enable scrollbar leads to low-quality text rendering: `transform`、`border`、`border-radius`、`border`
