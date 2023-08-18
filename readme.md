@@ -6,6 +6,8 @@ Chromium Bugs Link: [#1471449](https://bugs.chromium.org/p/chromium/issues/detai
 
 Combining the use of these CSS styles and enable scrollbar leads to low-quality text rendering: `transform`、`border`、`border-radius`、`border`
 
+（my computer screen is HiRes(3200 * 2000 16 inch)）
+
 ```css
 .selector {
   transform: translate(1px, 1px);
