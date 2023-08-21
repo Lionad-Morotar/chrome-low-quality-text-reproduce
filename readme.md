@@ -2,6 +2,10 @@
 
 Chromium Bugs Link: [#1471449](https://bugs.chromium.org/p/chromium/issues/detail?id=1471449)
 
+![image](https://github.com/Lionad-Morotar/chrome-low-quality-text-reproduce/assets/26913795/70696887-89f3-491d-803d-f8dca6a11e7c)
+![image](https://github.com/Lionad-Morotar/chrome-low-quality-text-reproduce/assets/26913795/fb627ea4-431f-4665-bf51-123475c2ce04)
+
+
 ## in short
 
 Combining the use of these CSS styles and enable scrollbar leads to low-quality text rendering: `transform`、`border`、`border-radius`、`border`
